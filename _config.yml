@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: tareztest@gmail.com
 description: ""
 keyword: ""
-url: "http://tarez.github.io"              # your host, for absolute URL
+url: "http://tareztest.github.io"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "TAREZ Blog",
-        href: "http://tarez.github.io"
+        href: "http://tareztest.github.io"
     },{
         title: "Foo",
         href: "#"
