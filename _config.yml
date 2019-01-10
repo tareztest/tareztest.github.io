@@ -6,7 +6,7 @@ email: tareztest@gmail.com
 description: ""
 keyword: ""
 url: "http://tarez.github.io"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
